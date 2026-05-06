@@ -28,7 +28,6 @@
 ## 🎓 FORMAÇÃO
 
 * 💻 **Análise e Desenvolvimento de Sistemas** – UNICSUL
-* 🩺 **Técnico em Enfermagem**
 
 ---
 
