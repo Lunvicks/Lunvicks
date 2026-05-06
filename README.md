@@ -1,84 +1,89 @@
 <div align="center">
 
-<!-- HEADER PREMIUM -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6366f1,100:a855f7&height=240&section=header&text=Vitória%20Silva%20💜&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Data%20Analytics%20|%20SQL%20•%20Power%20BI%20•%20Excel&descAlignY=58&descSize=18"/>
-
-<!-- ANIMAÇÃO -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=900&color=6366F1&center=true&vCenter=true&width=700&lines=Data+Analytics+Enthusiast;SQL+%7C+Power+BI+%7C+Excel;Automation+%26+Business+Insights;Turning+Data+Into+Strategy"/>
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:6d28d9,100:9333ea&height=220&section=header&text=Vitória%20Silva%20💜&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20Analytics%20in%20Transition%20|%20SQL%20•%20Power%20BI%20•%20Excel&descAlignY=58&descSize=16"/>
 
 </div>
 
 ---
 
-## 💜 SOBRE MIM
+## 🖤 SOBRE MIM
 
-💡 Em transição para **Data Analytics**  
+💡 Em transição para área de **Data Analytics**  
 📊 Foco em análise de dados e indicadores  
 ⚙️ Automação de relatórios e processos  
-📈 Criação de dashboards estratégicos  
+📈 Transformando dados em insights estratégicos  
 
 ---
 
-## 🧠 SKILLS CORE
+## 💜 STACK
+
+### 📊 Dados
+![SQL](https://img.shields.io/badge/SQL-6d28d9?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-9333ea?style=for-the-badge&logo=powerbi&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-4c1d95?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### ⚙️ Ferramentas
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-6d28d9?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 GITHUB STATS
 
 <div align="center">
 
-### 📊 Data Stack
-![SQL](https://img.shields.io/badge/SQL-0ea5e9?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-6366f1?style=for-the-badge&logo=powerbi&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-a855f7?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+<img height="170em"
+src="https://github-readme-stats.vercel.app/api?username=Lunvicks&show_icons=true&theme=midnight-purple&hide_border=true"/>
 
-### ⚙️ Tools
-![Git](https://img.shields.io/badge/Git-0ea5e9?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-6366f1?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-a855f7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<img height="170em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lunvicks&layout=compact&theme=midnight-purple&hide_border=true"/>
 
 </div>
 
 ---
 
-## 📊 DASHBOARD GITHUB (ESTÁVEL)
+## 🔥 ATIVIDADE
 
 <div align="center">
 
-<!-- STATS PRINCIPAL -->
-<img height="180em"
-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Lunvicks&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<!-- LINGUAGENS -->
-<img height="180em"
-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Lunvicks&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lunvicks&bg_color=0d0d0d&color=9333ea&line=6d28d9&point=a855f7&area=true&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🔥 PERFORMANCE
+## 🎯 FOCO ATUAL
 
-<div align="center">
+💜 Aprendendo e evoluindo em:
 
-<!-- STREAK -->
-<img src="https://streak-stats.demolab.com?user=Lunvicks&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 📈 ATIVIDADE (VISUAL PROFISSIONAL)
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lunvicks&bg_color=0d1117&color=6366f1&line=a855f7&point=0ea5e9&area=true&hide_border=true"/>
-
-</div>
+- SQL para análise de dados  
+- Power BI para dashboards  
+- Excel para automação e relatórios  
+- Pensamento analítico e métricas  
 
 ---
 
-## 🚀 FOCO ATUAL
+## 🚀 OBJETIVO
 
-```sql id="k1v9da"
-SELECT objetivo
-FROM carreira
-WHERE area = 'Data Analytics'
-AND status = 'Em transição'
-AND foco = 'SQL + Power BI + Excel';
+Me tornar uma **Analista de Dados forte**, com foco em:
+
+📊 Dados → Insights  
+⚙️ Processos → Automação  
+📈 Informação → Decisão  
+
+---
+
+## 📬 CONTATO
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
+[![Email](https://img.shields.io/badge/Email-9333ea?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:seuemail@email.com)
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:6d28d9,100:9333ea&height=120&section=footer"/>
+
+</div>
