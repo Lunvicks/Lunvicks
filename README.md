@@ -1,17 +1,18 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:6d28d9,100:9333ea&height=220&section=header"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&duration=2500&pause=800&color=9333EA&center=true&vCenter=true&width=600&lines=Vit%C3%B3ria+Silva+%F0%9F%92%9C" />
+<h1 align="center">Vitória Silva 💜</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=700&lines=Data+Analytics+in+Transition;SQL+%E2%80%A2+Power+BI+%E2%80%A2+Excel;Focada+em+dados%2C+automacao+e+insights" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=5000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Data+Analytics+in+Transition;SQL+%E2%80%A2+Power+BI+%E2%80%A2+Excel;Transformando+dados+em+insights" />
 
 <div align="center">
   <a href="https://www.linkedin.com/in/vitória-silva-3a4920364" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:vitorialunsilva@outlook.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
 
@@ -31,7 +32,9 @@
 
 ## 🎓 FORMAÇÃO
 
-* 💻 Análise e Desenvolvimento de Sistemas – UNICSUL 
+* 💻 Análise e Desenvolvimento de Sistemas – UNICSUL  
+* 🩺 Técnico em Enfermagem  
+
 ---
 
 ## 💜 STACK
@@ -48,11 +51,10 @@
 
 ---
 
-## 🏆 ESTATÍSTICAS
+## 🐍 CONTRIBUIÇÕES
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lunvicks&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_color=9333ea&icon_color=9333ea&title_color=9333ea" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunvicks&layout=compact&langs_count=7&theme=dracula&border_color=9333ea&title_color=9333ea" />
+  <img src="https://github-readme-snake.azurewebsites.net/api/snake?github=vitorialunsilva&color_dots=%23161b22%2C%239333ea%2C%236d28d9%2C%234c1d95%2C%232e1065&color_snake=%239333ea" alt="Snake animation" />
 </div>
 
 ---
@@ -67,11 +69,11 @@
 
 <div align="center">
   <h3>"Transformando números em histórias e dados em decisões."</h3>
-  <p>- <i>W. Edwards Deming</i></p>
 </div>
+
 ---
 
 <div align="center">
-  <p><i>"Do cuidado com pessoas à precisão dos dados."</i> ✨</p>
+  <p><i>Do cuidado com pessoas à precisão dos dados.</i> ✨</p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:6d28d9,100:9333ea&height=120&section=footer"/>
 </div>
