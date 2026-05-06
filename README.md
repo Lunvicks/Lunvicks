@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:6d28d9,100:9333ea&height=220&section=header"/>
 
-<h1 align="center">Vitória Silva 💜</h1>
+<h1 align="center">Vitória Silva </h1>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=5000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Data+Analytics+in+Transition;SQL+%E2%80%A2+Power+BI+%E2%80%A2+Excel;Transformando+dados+em+insights" />
 
@@ -19,9 +19,9 @@
 
 ---
 
-## 🖤 SOBRE MIM
+## 👩‍💻 SOBRE MIM
 
-💡 Em transição de carreira para Data Analytics, focada em transformar dados em decisões estratégicas através de análises, dashboards e automação.
+🌐 Em transição de carreira para Data Analytics, focada em transformar dados em decisões estratégicas através de análises, dashboards e automação.
 
 * 📊 Análise de dados e KPIs
 * ⚙️ Automação de relatórios
