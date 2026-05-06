@@ -31,9 +31,7 @@
 
 ## 🎓 FORMAÇÃO
 
-* 💻 Análise e Desenvolvimento de Sistemas – UNICSUL  
-* 🩺 Técnico em Enfermagem  
-
+* 💻 Análise e Desenvolvimento de Sistemas – UNICSUL 
 ---
 
 ## 💜 STACK
@@ -68,9 +66,9 @@
 <br />
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=Data%20is%20the%20new%20oil%2C%20but%20analytics%20is%20the%20engine." />
+  <h3>"Transformando números em histórias e dados em decisões."</h3>
+  <p>- <i>W. Edwards Deming</i></p>
 </div>
-
 ---
 
 <div align="center">
