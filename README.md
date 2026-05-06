@@ -1,6 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:6d28d9,100:9333ea&height=220&section=header&text=Vitória%20Silva%20💜&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20Analytics%20in%20Transition%20|%20SQL%20•%20Power%20BI%20•%20Excel&descAlignY=58&descSize=18"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9333ea&center=true&vCenter=true&width=600&height=100&lines=Vitória+Silva+💜;Analista+de+Dados+em+Formação;SQL+•+Power+BI+•+Excel+•+Python" alt="Typing SVG" />
+
+<br>
+
+<a href="https://vitorialunsilva.com.br" target="_blank">
+  <img src="https://i.pinimg.com/736x/8a/7e/8e/8a7e8e50bb7f9d8689f2d01168f0568c.jpg" alt="Análise de Dados Visual" width="600" />
+</a>
+
+<br>
 
 <div>
   <a href="https://www.linkedin.com/in/vitória-silva-3a4920364">
@@ -12,6 +20,7 @@
 </div>
 
 </div>
+
 
 ---
 
