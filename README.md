@@ -53,7 +53,7 @@
 ## 📈 ATIVIDADE NO GITHUB
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vitorialunsilva&theme=dracula&area=true&point=9333ea&color=9333ea&hide_border=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Lunvicks&theme=dracula&area=true&point=9333ea&color=9333ea&hide_border=true" />
 </div>
 
 ---
