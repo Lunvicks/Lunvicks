@@ -28,60 +28,40 @@
 ## 🎓 FORMAÇÃO
 
 * 💻 **Análise e Desenvolvimento de Sistemas** – UNICSUL
-*
+* 🩺 **Técnico em Enfermagem**
 
 ---
 
-## 💜 MINHA STACK
+## 💜 MINHA STACK (Habilidades Técnicas)
 
-### 📊 Dados & Business Intelligence
+### 📊 Dados & BI
 <div align="left">
-  <img src="https://img.shields.io/badge/SQL-6d28d9?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerBI-9333ea?style=for-the-badge&logo=powerbi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-4c1d95?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=mysql,powerbi,excel" />
 </div>
 
 ### ⚙️ Ferramentas & Desenvolvimento
 <div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-6d28d9?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</div>
-
-
----
-
-## 🔥 ATIVIDADE
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=lunvicks&bg_color=0d0d0d&color=9333ea&line=6d28d9&point=a855f7&area=true&hide_border=true"/>
+  <img src="https://skillicons.dev/icons?i=python,git,vscode,github" />
 </div>
 
 ---
 
-## 🎯 FOCO ATUAL
+## 🏆 COMPETÊNCIAS PRINCIPAIS
 
-- [x] **SQL:** Consultas complexas e manipulação de dados.
-- [x] **Power BI:** Storytelling e dashboards interativos.
-- [x] **Excel Avançado:** Power Query e automação.
-- [ ] **Python:** Foco em bibliotecas para análise de dados (Pandas/NumPy).
+Em substituição às estatísticas, aqui estão as áreas onde estou focando meu desenvolvimento prático:
 
----
-
-## 📊 GITHUB STATS
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=lunvicks&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lunvicks&layout=compact&theme=midnight-purple&hide_border=true" />
-</div>
+* 📝 **Consultas SQL:** Criação de queries para extração e limpeza de dados.
+* 📈 **Dashboards:** Construção de painéis visuais para tomada de decisão no Power BI.
+* 🤖 **Python para Dados:** Manipulação de tabelas com bibliotecas como Pandas.
+* 📁 **Gestão de Planilhas:** Automação avançada e fórmulas complexas em Excel.
 
 ---
 
-## 🔥 ATIVIDADE
+## 🎯 OBJETIVO ATUAL
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Lunvicks&bg_color=0d0d0d&color=9333ea&line=6d28d9&point=a855f7&area=true&hide_border=true" />
-</p>
+- [x] Consolidar conhecimentos em Bancos de Dados Relacionais.
+- [x] Criar portfólio de dashboards interativos.
+- [ ] Iniciar projetos de automação com scripts Python.
 
 ---
 
