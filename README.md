@@ -48,22 +48,6 @@
   <img src="https://img.shields.io/badge/VSCode-6d28d9?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </div>
 
----
-
-## 📊 GITHUB STATS
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lunvicks&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true"/>
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunvicks&layout=compact&theme=midnight-purple&hide_border=true"/>
-      </td>
-    </tr>
-  </table>
-</div>
 
 ---
 
@@ -81,6 +65,23 @@
 - [x] **Power BI:** Storytelling e dashboards interativos.
 - [x] **Excel Avançado:** Power Query e automação.
 - [ ] **Python:** Foco em bibliotecas para análise de dados (Pandas/NumPy).
+
+---
+
+## 📊 GITHUB STATS
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Lunvicks&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lunvicks&layout=compact&theme=midnight-purple&hide_border=true" />
+</div>
+
+---
+
+## 🔥 ATIVIDADE
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Lunvicks&bg_color=0d0d0d&color=9333ea&line=6d28d9&point=a855f7&area=true&hide_border=true" />
+</p>
 
 ---
 
