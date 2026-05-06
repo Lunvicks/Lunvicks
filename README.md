@@ -55,12 +55,11 @@ AND goal = 'Become Data Analyst';
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Lunvicks&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=a855f7&text_color=ffffff"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Lunvicks&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lunvicks&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=ffffff"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lunvicks&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
-
 ---
 
 ## 📈 EVOLUÇÃO NO GIT
