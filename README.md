@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:6d28d9,100:9333ea&height=220&section=header"/>
@@ -51,10 +50,10 @@
 
 ---
 
-## 🐍 CONTRIBUIÇÕES
+## 📈 ATIVIDADE NO GITHUB
 
 <div align="center">
-  <img src="https://github-readme-snake.azurewebsites.net/api/snake?github=vitorialunsilva&color_dots=%23161b22%2C%239333ea%2C%236d28d9%2C%234c1d95%2C%232e1065&color_snake=%239333ea" alt="Snake animation" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vitorialunsilva&theme=dracula&area=true&point=9333ea&color=9333ea&hide_border=true" />
 </div>
 
 ---
