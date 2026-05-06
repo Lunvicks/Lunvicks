@@ -1,95 +1,102 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:a855f7&height=200&section=header&text=Ol%C3%A1%2C%20eu%20sou%20a%20Vit%C3%B3ria!%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Dados%20%E2%80%A2%20Automa%C3%A7%C3%A3o%20%E2%80%A2%20Performance&descAlignY=58&descSize=18" />
+<!-- HEADER ANIMADO -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6366f1,100:a855f7&height=220&section=header&text=Vitória%20Silva%20💜&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20in%20transition%20|%20SQL%20•%20Power%20BI%20•%20Excel&descAlignY=58&descSize=18"/>
 
-<br/>
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Data+Analytics+in+Progress;SQL+%7C+Power+BI+%7C+Excel;Automation+%26+Business+Insights;Turning+Data+into+Decisions" />
 
-![Visitors](https://komarev.com/ghpvc/?username=Lunvicks&color=a855f7&style=flat-square&label=Visitas)
+<br>
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vitoria-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vitoria-silva-3a4920364)
-[![Email](https://img.shields.io/badge/Email-Outlook-0078D4?style=flat-square&logo=microsoft-outlook)](mailto:vitorialunsilva@outlook.com)
+<!-- VISITAS -->
+<img src="https://komarev.com/ghpvc/?username=Lunvicks&color=6366f1&style=flat-square&label=VISITAS"/>
 
 </div>
 
 ---
 
-## 👩‍💻 Sobre mim
+## 💜 SOBRE MIM
 
 ```sql
 SELECT *
 FROM vitoria
-WHERE objetivo = 'transição para área de dados'
-  AND foco     = 'SQL + Excel + Power BI'
-  AND meta     = 'crescimento profissional';
+WHERE area = 'Data Analytics'
+AND focus IN ('SQL','Power BI','Excel')
+AND goal = 'Become Data Analyst';
 ```
 
-- 📊 Criação de relatórios e dashboards  
-- 🔍 Análise de KPIs e indicadores de performance  
-- ⚙️ Automação de processos com Excel e SQL  
-- 💡 Geração de insights para tomada de decisão  
+📊 Transformando dados em decisões estratégicas  
+⚙️ Automação de relatórios e processos  
+📈 Criação de dashboards interativos  
+🔍 Análise de KPIs e performance  
 
 ---
 
-## 🛠️ Tecnologias
+## ⚡ STACK DE HABILIDADES
 
 <div align="center">
 
-![SQL](https://img.shields.io/badge/SQL-6366F1?style=for-the-badge&logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Git](https://img.shields.io/badge/Git-6366F1?style=for-the-badge&logo=git&logoColor=white)
+### 💻 Data & Analytics
+![SQL](https://img.shields.io/badge/SQL-0ea5e9?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-6366f1?style=for-the-badge&logo=powerbi&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-a855f7?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0ea5e9?style=for-the-badge&logo=python&logoColor=white)
+
+### ⚙️ Ferramentas
+![Git](https://img.shields.io/badge/Git-6366f1?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-a855f7?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0ea5e9?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
 
-## 📈 O que eu faço
-
-| 🔧 Área | 📋 Atividades |
-|:-------:|:-------------|
-| 📊 Relatórios | Criação de dashboards e relatórios estratégicos |
-| 🔍 Análise | Acompanhamento de KPIs e indicadores |
-| ⚙️ Automação | Otimização de processos com Excel e SQL |
-| 💡 Insights | Transformação de dados em decisões |
-| 🎯 Power BI | Desenvolvimento de painéis interativos |
-
----
-
-## 📊 GitHub Stats
+## 📊 GITHUB STATS
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Lunvicks&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=ffffff&cache_seconds=86400"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Lunvicks&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=a855f7&text_color=ffffff"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lunvicks&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff&cache_seconds=86400"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lunvicks&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=ffffff"/>
 
 </div>
 
 ---
 
-## 🎯 Objetivo
+## 📈 EVOLUÇÃO NO GIT
 
 <div align="center">
 
-> Crescer na área de dados e transformar informações em decisões estratégicas.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lunvicks&bg_color=0d1117&color=6366f1&line=a855f7&point=0ea5e9&area=true&hide_border=true"/>
 
 </div>
 
 ---
 
-## 📫 Contato
+## 🎯 OBJETIVO
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:vitorialunsilva@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitoria-silva-3a4920364)
+💜 *“Me tornar uma Analista de Dados completa, unindo técnica, automação e visão de negócio para gerar impacto real.”*
 
 </div>
 
 ---
 
+## 📬 CONTATO
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:8b5cf6,100:6366f1&height=120&section=footer"/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0ea5e9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitoria-silva-3a4920364)
+[![Email](https://img.shields.io/badge/Email-a855f7?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:vitorialunsilva@outlook.com)
+
+</div>
+
+---
+
+<!-- FOOTER ANIMADO -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:0ea5e9,100:a855f7&height=120&section=footer"/>
+
 </div>
