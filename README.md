@@ -51,8 +51,8 @@
 ## 🏆 ESTATÍSTICAS
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitoria-silva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_color=9333ea&icon_color=9333ea&title_color=9333ea" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoria-silva&layout=compact&langs_count=7&theme=dracula&border_color=9333ea&title_color=9333ea" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lunvicks&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_color=9333ea&icon_color=9333ea&title_color=9333ea" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunvicks&layout=compact&langs_count=7&theme=dracula&border_color=9333ea&title_color=9333ea" />
 </div>
 
 ---
