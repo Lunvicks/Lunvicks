@@ -1,14 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:6d28d9,100:9333ea&height=220&section=header&text=Vitória%20Silva%20💜&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20Analytics%20in%20Transition%20|%20SQL%20•%20Power%20BI%20•%20Excel&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:6d28d9,100:9333ea&height=220&section=header"/>
+
+<!-- NOME ANIMADO -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&duration=2500&pause=800&color=9333EA&center=true&vCenter=true&width=600&lines=Vit%C3%B3ria+Silva+%F0%9F%92%9C" />
 
 <div>
-  <a href="https://www.linkedin.com/in/vitória-silva-3a4920364">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  
+  <!-- LINKEDIN -->
+  <a href="https://www.linkedin.com/in/vitória-silva-3a4920364" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
+  <!-- EMAIL (OUTLOOK) -->
   <a href="mailto:vitorialunsilva@outlook.com">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook">
+    <img src="https://img.shields.io/badge/Email-%230078D4.svg?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
+
 </div>
 
 </div>
@@ -17,61 +25,40 @@
 
 ## 🖤 SOBRE MIM
 
-💡 **Em transição de carreira para Data Analytics.** Meu objetivo é transformar grandes volumes de dados brutos em decisões estratégicas através de análises precisas, visualizações claras e automação de processos.
+💡 Em transição de carreira para **Data Analytics**, focada em transformar dados em decisões estratégicas.
 
-* 📊 **Análise de Dados:** Extração de insights e acompanhamento de indicadores (KPIs).
-* ⚙️ **Automação:** Desenvolvimento de relatórios inteligentes e dinâmicos.
-* 📈 **Foco em Resultados:** Transformando informação em valor para o negócio.
+* 📊 Análise de dados e KPIs
+* ⚙️ Automação de relatórios
+* 📈 Visualização de dados e dashboards
 
 ---
 
 ## 🎓 FORMAÇÃO
 
-* 💻 **Análise e Desenvolvimento de Sistemas** – UNICSUL
+* 💻 Análise e Desenvolvimento de Sistemas – UNICSUL  
+* 🩺 Técnico em Enfermagem  
 
 ---
 
-## 💜 MINHA STACK (Habilidades Técnicas)
+## 💜 STACK
 
-### 📊 Dados & BI
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,powerbi,excel" />
-</div>
+### 📊 Dados
+<img src="https://skillicons.dev/icons?i=mysql,powerbi,excel" />
 
-### ⚙️ Ferramentas & Desenvolvimento
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=python,git,vscode,github" />
-</div>
+### ⚙️ Ferramentas
+<img src="https://skillicons.dev/icons?i=python,git,vscode,github" />
 
 ---
 
-## 🏆 COMPETÊNCIAS PRINCIPAIS
+## 🎯 OBJETIVO
 
-Em substituição às estatísticas, aqui estão as áreas onde estou focando meu desenvolvimento prático:
-
-* 📝 **Consultas SQL:** Criação de queries para extração e limpeza de dados.
-* 📈 **Dashboards:** Construção de painéis visuais para tomada de decisão no Power BI.
-* 🤖 **Python para Dados:** Manipulação de tabelas com bibliotecas como Pandas.
-* 📁 **Gestão de Planilhas:** Automação avançada e fórmulas complexas em Excel.
-
----
-
-## 🎯 OBJETIVO ATUAL
-
-- [x] Consolidar conhecimentos em Bancos de Dados Relacionais.
-- [x] Criar portfólio de dashboards interativos.
-- [x] Iniciar projetos de automação com scripts Python.
+- 📌 SQL avançado para análise de dados  
+- 📌 Dashboards profissionais em Power BI  
+- 📌 Automação com Python (Pandas)  
 
 ---
 
 <div align="center">
-
-### Vamos conversar?
- 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-6d28d9?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vitória-silva-3a4920364)
-[![Outlook](https://img.shields.io/badge/-Email-9333ea?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:vitorialunsilva@outlook.com)
-
-<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:6d28d9,100:9333ea&height=120&section=footer"/>
 
