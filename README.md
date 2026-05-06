@@ -61,9 +61,9 @@ WHERE objetivo = 'transição para área de dados'
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Lunvicks&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=ffffff&cache_seconds=1800"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Lunvicks&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=ffffff&cache_seconds=86400"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lunvicks&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff&cache_seconds=1800"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lunvicks&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff&cache_seconds=86400"/>
 
 </div>
 
