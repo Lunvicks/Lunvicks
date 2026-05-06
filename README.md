@@ -71,7 +71,7 @@
 ## 📊 GITHUB STATS
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Lunvicks&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=lunvicks&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lunvicks&layout=compact&theme=midnight-purple&hide_border=true" />
 </div>
 
