@@ -60,6 +60,7 @@ AND goal = 'Become Data Analyst';
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lunvicks&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
+
 ---
 
 ## 📈 EVOLUÇÃO NO GIT
