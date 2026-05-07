@@ -19,7 +19,7 @@
 
 ---
 
-## <img src="./image.png" alt="Mario Tanooki Pixel Art" width="100">SOBRE MIM
+## <img src="./mario.png" alt="Mario Tanooki Pixel Art" width="100">SOBRE MIM
 
 🌐 Em transição de carreira para Data Analytics, focada em transformar dados em decisões estratégicas através de análises, dashboards e automação.
 
