@@ -19,7 +19,7 @@
 
 ---
 
-## 👩‍💻 SOBRE MIM
+##  ![Tanooki Mario](image.png) SOBRE MIM
 
 🌐 Em transição de carreira para Data Analytics, focada em transformar dados em decisões estratégicas através de análises, dashboards e automação.
 
