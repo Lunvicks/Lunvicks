@@ -49,7 +49,7 @@
 
 ---
 
-## 🐍 Minha Contribuição
+## 🐍 Snake Tracker
 ![Snake animation](https://github.com/Lunvicks/Lunvicks/blob/output/github-contribution-grid-snake.svg)
 
 ---
