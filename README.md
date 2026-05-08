@@ -49,11 +49,8 @@
 
 ---
 
-## 📈 ATIVIDADE NO GITHUB
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Lunvicks&theme=dracula&area=true&point=9333ea&color=9333ea&hide_border=true" />
-</div>
+## 🐍 Minha Contribuição
+![Snake animation](https://github.com/Lunvicks/Lunvicks/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
